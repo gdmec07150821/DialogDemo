@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="uidate" type="id" />
+    <item name="uitime" type="id" />
+    <item name="charactor" type="id" />
+</resources>
